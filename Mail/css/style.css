@@ -3,3 +3,31 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-image: url(https://www.aranzulla.it/wp-content/contenuti/2018/11/37bac800-1200x628.jpg);
+    background-size: cover;
+}
+
+
+.container{
+    width: 70%;
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row{
+    text-align: center;
+}
+
+
+
+
+   
+    

@@ -8,4 +8,4 @@ PROBLEMA: Gioco Dadi
     SE il giocatore ha un punteggio più alto del computer
        allora ha vinto il GIOCATORE
     ALTRIMENTI il computer ha un punteggio più alto del giocatore
-       ha vinto il COMPUTER    
+       allora ha vinto il COMPUTER    

@@ -18,14 +18,12 @@ if(giocatore == computer){
 
 // SE il giocatore ha un punteggio più alto del computer allora ha vinto il GIOCATORE
        
-
 else if(giocatore > computer){
     console.log('Ha vinto il giocatore')
 }
 
 // ALTRIMENTI il computer ha un punteggio più alto del giocatore allora ha vinto il COMPUTER 
        
-
 else{
     console.log('Ha vinto il computer')
 }

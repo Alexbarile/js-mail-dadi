@@ -1,4 +1,11 @@
 PROBLEMA: Gioco Dadi
 
-1 - generare un numero random da 1 a 6
-2 - 
+1 - generare un numero casuale per il giocatore tra 1 e 6;
+2 - generare un numero casuale per il computer tra 1 e 6;
+3 - Controllo del valore più alto;
+    SE il giocatore e il computer hanno lo stesso punteggio
+       allora è pareggio
+    SE il giocatore ha un punteggio più alto del computer
+       allora ha vinto il GIOCATORE
+    ALTRIMENTI il computer ha un punteggio più alto del giocatore
+       ha vinto il COMPUTER    
